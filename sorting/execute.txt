@@ -1,0 +1,1 @@
+generate.py word 1500 10 10000
