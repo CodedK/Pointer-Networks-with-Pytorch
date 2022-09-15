@@ -14,7 +14,7 @@ This is a simple tutorial for sorting one to three digit numbers with Pointer Ne
 ...
 ```
 
-2. Modify the type and dimension of the word embedding layer in `parameters.py`, for exmaple:
+2. Modify the type and dimension of the word embedding layer in `parameters.py`, for example:
 
 ```
 UNIT = "word"
